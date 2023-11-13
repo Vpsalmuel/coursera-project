@@ -1,5 +1,6 @@
 import logo from "../assets/images/favIcon-rem.png";
 import Nav from "./Nav";
+// import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -10,7 +11,7 @@ function Footer() {
         </div>
         <div className="two">
           <ul>
-            <h5>Navigation</h5>
+          <h5>Navigation</h5>
             <li>
               <a href="/">Home</a>
             </li>
